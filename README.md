@@ -12,7 +12,7 @@
 * 专业：计算机科学与技术
 * 最喜爱的IDE：webstorm
 * github：Are you kidding me?
-* 博客地址：http://www.cnblogs.com/webstone/
+* 博客：http://www.cnblogs.com/webstone/
 
 
 ##工作经历
@@ -84,6 +84,8 @@ handlebars   | 3
 underscore   | 2.5
 backbone     | 2.5
 angular      | 3.5
+angular unit test| 1.5
+angular e2e test | 1.5
 html5        | 2.5
 css3         | 3
 less         | 3
