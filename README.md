@@ -49,4 +49,57 @@
 * 《DON'T MAKE ME THINK》
 * 《用AngularJS开发下一代Web应用》
 * 《浪潮之巅》（在读）
-* 《JavaScript权威指南》（在读）
+* 《JavaScript权威指南》（在读）  
+
+##自我技术鉴定
+
+```js
+var global = {};
+(function(){
+    global['掌握程度'] = {
+        '1':'了解',
+        '2':'使用过',
+        '3':'较熟练',
+        '4':'掌握',
+        '5':'精通'
+    }
+})()
+```
+
+技术点        | 掌握程度 
+:-----------:|:-----: 
+核心JavaScript| 4   
+es5          | 3.5   
+DOM          | 3 
+jQuery       | 4
+jQuery插件    | 3
+COMMONJS     | 1
+seajs        | 3.5
+spm          | 3
+requirejs    | 1
+css2         | 4
+aralejs      | 3.5
+OO编程        | 3.5
+handlebars   | 3
+underscore   | 2.5
+backbone     | 2.5
+angular      | 3.5
+html5        | 2.5
+css3         | 3
+less         | 3
+bootstrap 3  | 3.5
+移动端开发     | 2.5
+nodejs       | 2.5
+express      | 2
+grunt        | 3
+bower        | 2.5
+yeoman       | 3.5
+subversion   | 3
+git          | 2.5
+
+
+
+
+![](http://yeoman.io/assets/img/tool-yo.5015.png)
+![](http://yeoman.io/assets/img/tool-grunt.af56.png)
+![](http://yeoman.io/assets/img/tool-bower.db00.png)
