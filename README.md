@@ -102,6 +102,6 @@ git          | 2.5
 
 
 
-![](http://yeoman.io/assets/img/tool-yo.5015.png)
-![](http://yeoman.io/assets/img/tool-grunt.af56.png)
-![](http://yeoman.io/assets/img/tool-bower.db00.png)
+![tool-yo](https://cloud.githubusercontent.com/assets/4470552/6484306/c5f5982a-c2b5-11e4-8d6c-c94738463a27.png)
+![tool-grunt](https://cloud.githubusercontent.com/assets/4470552/6484304/c5c2d052-c2b5-11e4-8d4a-820e098a99d1.png)
+![tool-bower](https://cloud.githubusercontent.com/assets/4470552/6484321/e4d1450a-c2b5-11e4-9066-3f368558b2dd.png)
