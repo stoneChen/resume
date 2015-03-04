@@ -12,7 +12,7 @@
 * 专业：计算机科学与技术
 * 最喜爱的IDE：webstorm
 * github：Are you kidding me?
-* 博客：http://www.cnblogs.com/webstone/
+* 博客：http://stoneydream.com/
 
 
 ##工作经历
