@@ -48,8 +48,8 @@
 * 《影响力》
 * 《DON'T MAKE ME THINK》
 * 《用AngularJS开发下一代Web应用》
-* 《浪潮之巅》（在读）
-* 《JavaScript权威指南》（在读）  
+* 《浪潮之巅》
+* 《JavaScript权威指南》 
 
 ##自我技术鉴定
 
@@ -90,14 +90,17 @@ html5        | 2.5
 css3         | 3
 less         | 3
 bootstrap 3  | 3.5
-移动端开发     | 2.5
+echarts      | 2
+kinetic      | 2
+移动端开发   | 2.5
 nodejs       | 2.5
 express      | 2
 grunt        | 3
 bower        | 2.5
 yeoman       | 3.5
 subversion   | 3
-git          | 2.5
+git          | 2
+
 
 
 
