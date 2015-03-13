@@ -5,7 +5,7 @@
 * 性别：男
 * 出生日期：1988.12.23
 * 居住地：杭州市江干区
-* email:baby31529@gmail.com | baby31529@aliyun.com
+* email：baby31529@aliyun.com | baby31529@gmail.com
 * cellphone：18268100680
 * qq:597719186
 * 学历：本科
