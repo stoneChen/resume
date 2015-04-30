@@ -1,12 +1,12 @@
 #stoneChen的简历
 
 ##个人信息
-* 姓氏：陈
-* 性别：男
-* 出生日期：1988.12.23
-* 居住地：杭州市江干区
-* email：baby31529@aliyun.com | baby31529@gmail.com
-* qq:597719186
+* Last Name：陈
+* Gender：男
+* Birth：1988.12.23
+* Address：杭州市江干区
+* Email：baby31529@aliyun.com | baby31529@gmail.com
+* QQ:597719186
 * 学历：本科
 * 专业：计算机科学与技术
 * 最喜爱的IDE：webstorm
